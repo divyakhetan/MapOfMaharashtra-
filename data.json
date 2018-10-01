@@ -1,0 +1,7012 @@
+var data = [
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 1,
+   "Constituency Name": "Akkalkuwa "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 1,
+   "Constituency Name": "Akkalkuwa "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 1,
+   "Constituency Name": "Akkalkuwa "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 1,
+   "Constituency Name": "Akkalkuwa "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 2,
+   "Constituency Name": "Shahada "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 2,
+   "Constituency Name": "Shahada "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 2,
+   "Constituency Name": "Shahada "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 2,
+   "Constituency Name": "Shahada "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 3,
+   "Constituency Name": "Nandurbar "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 3,
+   "Constituency Name": "Nandurbar "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 3,
+   "Constituency Name": "Nandurbar "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 3,
+   "Constituency Name": "Nandurbar "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 3,
+   "Constituency Name": "Nandurbar "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 4,
+   "Constituency Name": "Nawapur "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 4,
+   "Constituency Name": "Nawapur "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 4,
+   "Constituency Name": "Nawapur "
+ },
+ {
+   "DIST_NAME": "Nandurabar",
+   "Constituency Number": 4,
+   "Constituency Name": "Nawapur "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 5,
+   "Constituency Name": "Sakri "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 5,
+   "Constituency Name": "Sakri "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 5,
+   "Constituency Name": "Sakri "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 5,
+   "Constituency Name": "Sakri "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 5,
+   "Constituency Name": "Sakri "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 6,
+   "Constituency Name": "Dhule Rural"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 6,
+   "Constituency Name": "Dhule Rural"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 6,
+   "Constituency Name": "Dhule Rural"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 6,
+   "Constituency Name": "Dhule Rural"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 7,
+   "Constituency Name": "Dhule City"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 7,
+   "Constituency Name": "Dhule City"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 7,
+   "Constituency Name": "Dhule City"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 7,
+   "Constituency Name": "Dhule City"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 7,
+   "Constituency Name": "Dhule City"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 8,
+   "Constituency Name": "Sindkheda"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 8,
+   "Constituency Name": "Sindkheda"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 8,
+   "Constituency Name": "Sindkheda"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 8,
+   "Constituency Name": "Sindkheda"
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 9,
+   "Constituency Name": "Shirpur "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 9,
+   "Constituency Name": "Shirpur "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 9,
+   "Constituency Name": "Shirpur "
+ },
+ {
+   "DIST_NAME": "Dhule",
+   "Constituency Number": 9,
+   "Constituency Name": "Shirpur "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 10,
+   "Constituency Name": "Chopda "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 10,
+   "Constituency Name": "Chopda "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 10,
+   "Constituency Name": "Chopda "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 10,
+   "Constituency Name": "Chopda "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 10,
+   "Constituency Name": "Chopda "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 11,
+   "Constituency Name": "Raver"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 11,
+   "Constituency Name": "Raver"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 11,
+   "Constituency Name": "Raver"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 11,
+   "Constituency Name": "Raver"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 12,
+   "Constituency Name": "Bhusawal "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 12,
+   "Constituency Name": "Bhusawal "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 12,
+   "Constituency Name": "Bhusawal "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 12,
+   "Constituency Name": "Bhusawal "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 12,
+   "Constituency Name": "Bhusawal "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 13,
+   "Constituency Name": "Jalgaon City"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 13,
+   "Constituency Name": "Jalgaon City"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 13,
+   "Constituency Name": "Jalgaon City"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 13,
+   "Constituency Name": "Jalgaon City"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 13,
+   "Constituency Name": "Jalgaon City"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 13,
+   "Constituency Name": "Jalgaon City"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 14,
+   "Constituency Name": "Jalgaon Rural"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 14,
+   "Constituency Name": "Jalgaon Rural"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 14,
+   "Constituency Name": "Jalgaon Rural"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 14,
+   "Constituency Name": "Jalgaon Rural"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 14,
+   "Constituency Name": "Jalgaon Rural"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 15,
+   "Constituency Name": "Amalner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 15,
+   "Constituency Name": "Amalner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 15,
+   "Constituency Name": "Amalner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 15,
+   "Constituency Name": "Amalner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 15,
+   "Constituency Name": "Amalner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 16,
+   "Constituency Name": "Erandol"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 16,
+   "Constituency Name": "Erandol"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 16,
+   "Constituency Name": "Erandol"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 16,
+   "Constituency Name": "Erandol"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 16,
+   "Constituency Name": "Erandol"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 17,
+   "Constituency Name": "Chalisgaon"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 17,
+   "Constituency Name": "Chalisgaon"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 17,
+   "Constituency Name": "Chalisgaon"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 17,
+   "Constituency Name": "Chalisgaon"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 17,
+   "Constituency Name": "Chalisgaon"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 18,
+   "Constituency Name": "Pachora"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 18,
+   "Constituency Name": "Pachora"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 18,
+   "Constituency Name": "Pachora"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 18,
+   "Constituency Name": "Pachora"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 18,
+   "Constituency Name": "Pachora"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 19,
+   "Constituency Name": "Jamner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 19,
+   "Constituency Name": "Jamner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 19,
+   "Constituency Name": "Jamner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 19,
+   "Constituency Name": "Jamner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 19,
+   "Constituency Name": "Jamner"
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 20,
+   "Constituency Name": "Muktainagar "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 20,
+   "Constituency Name": "Muktainagar "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 20,
+   "Constituency Name": "Muktainagar "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 20,
+   "Constituency Name": "Muktainagar "
+ },
+ {
+   "DIST_NAME": "Jalgaon",
+   "Constituency Number": 20,
+   "Constituency Name": "Muktainagar "
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 21,
+   "Constituency Name": "Malkapur"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 21,
+   "Constituency Name": "Malkapur"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 21,
+   "Constituency Name": "Malkapur"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 21,
+   "Constituency Name": "Malkapur"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 21,
+   "Constituency Name": "Malkapur"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 22,
+   "Constituency Name": "Buldhana"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 22,
+   "Constituency Name": "Buldhana"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 22,
+   "Constituency Name": "Buldhana"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 22,
+   "Constituency Name": "Buldhana"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 22,
+   "Constituency Name": "Buldhana"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 23,
+   "Constituency Name": "Chikhli"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 23,
+   "Constituency Name": "Chikhli"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 23,
+   "Constituency Name": "Chikhli"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 23,
+   "Constituency Name": "Chikhli"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 24,
+   "Constituency Name": "Sindkhed Raja"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 24,
+   "Constituency Name": "Sindkhed Raja"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 24,
+   "Constituency Name": "Sindkhed Raja"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 24,
+   "Constituency Name": "Sindkhed Raja"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 24,
+   "Constituency Name": "Sindkhed Raja"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 25,
+   "Constituency Name": "Mehkar "
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 25,
+   "Constituency Name": "Mehkar "
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 25,
+   "Constituency Name": "Mehkar "
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 25,
+   "Constituency Name": "Mehkar "
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 25,
+   "Constituency Name": "Mehkar "
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 26,
+   "Constituency Name": "Khamgaon"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 26,
+   "Constituency Name": "Khamgaon"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 26,
+   "Constituency Name": "Khamgaon"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 26,
+   "Constituency Name": "Khamgaon"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 26,
+   "Constituency Name": "Khamgaon"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 27,
+   "Constituency Name": "Jalgaon (Jamod)"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 27,
+   "Constituency Name": "Jalgaon (Jamod)"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 27,
+   "Constituency Name": "Jalgaon (Jamod)"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 27,
+   "Constituency Name": "Jalgaon (Jamod)"
+ },
+ {
+   "DIST_NAME": "Buldhana",
+   "Constituency Number": 27,
+   "Constituency Name": "Jalgaon (Jamod)"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 28,
+   "Constituency Name": "Akot"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 28,
+   "Constituency Name": "Akot"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 28,
+   "Constituency Name": "Akot"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 28,
+   "Constituency Name": "Akot"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 28,
+   "Constituency Name": "Akot"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 29,
+   "Constituency Name": "Balapur"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 29,
+   "Constituency Name": "Balapur"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 29,
+   "Constituency Name": "Balapur"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 29,
+   "Constituency Name": "Balapur"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 29,
+   "Constituency Name": "Balapur"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 30,
+   "Constituency Name": "Akola West"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 30,
+   "Constituency Name": "Akola West"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 30,
+   "Constituency Name": "Akola West"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 30,
+   "Constituency Name": "Akola West"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 30,
+   "Constituency Name": "Akola West"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 31,
+   "Constituency Name": "Akola East"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 31,
+   "Constituency Name": "Akola East"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 31,
+   "Constituency Name": "Akola East"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 31,
+   "Constituency Name": "Akola East"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 31,
+   "Constituency Name": "Akola East"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 31,
+   "Constituency Name": "Akola East"
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 32,
+   "Constituency Name": "Murtizapur "
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 32,
+   "Constituency Name": "Murtizapur "
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 32,
+   "Constituency Name": "Murtizapur "
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 32,
+   "Constituency Name": "Murtizapur "
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 32,
+   "Constituency Name": "Murtizapur "
+ },
+ {
+   "DIST_NAME": "Akola",
+   "Constituency Number": 32,
+   "Constituency Name": "Murtizapur "
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 33,
+   "Constituency Name": "Risod"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 33,
+   "Constituency Name": "Risod"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 33,
+   "Constituency Name": "Risod"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 33,
+   "Constituency Name": "Risod"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 33,
+   "Constituency Name": "Risod"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 34,
+   "Constituency Name": "Washim "
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 34,
+   "Constituency Name": "Washim "
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 34,
+   "Constituency Name": "Washim "
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 34,
+   "Constituency Name": "Washim "
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 34,
+   "Constituency Name": "Washim "
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 35,
+   "Constituency Name": "Karanja"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 35,
+   "Constituency Name": "Karanja"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 35,
+   "Constituency Name": "Karanja"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 35,
+   "Constituency Name": "Karanja"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 35,
+   "Constituency Name": "Karanja"
+ },
+ {
+   "DIST_NAME": "Washim",
+   "Constituency Number": 35,
+   "Constituency Name": "Karanja"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 36,
+   "Constituency Name": "Dhamangaon railway"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 36,
+   "Constituency Name": "Dhamangaon railway"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 36,
+   "Constituency Name": "Dhamangaon railway"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 36,
+   "Constituency Name": "Dhamangaon railway"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 36,
+   "Constituency Name": "Dhamangaon railway"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 37,
+   "Constituency Name": "Badnera"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 37,
+   "Constituency Name": "Badnera"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 37,
+   "Constituency Name": "Badnera"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 37,
+   "Constituency Name": "Badnera"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 38,
+   "Constituency Name": "Amravati"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 38,
+   "Constituency Name": "Amravati"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 38,
+   "Constituency Name": "Amravati"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 38,
+   "Constituency Name": "Amravati"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 38,
+   "Constituency Name": "Amravati"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 39,
+   "Constituency Name": "Teosa"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 39,
+   "Constituency Name": "Teosa"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 39,
+   "Constituency Name": "Teosa"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 39,
+   "Constituency Name": "Teosa"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 39,
+   "Constituency Name": "Teosa"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 40,
+   "Constituency Name": "Daryapur "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 40,
+   "Constituency Name": "Daryapur "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 40,
+   "Constituency Name": "Daryapur "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 40,
+   "Constituency Name": "Daryapur "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 40,
+   "Constituency Name": "Daryapur "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 40,
+   "Constituency Name": "Daryapur "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 41,
+   "Constituency Name": "Melghat "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 41,
+   "Constituency Name": "Melghat "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 41,
+   "Constituency Name": "Melghat "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 41,
+   "Constituency Name": "Melghat "
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 42,
+   "Constituency Name": "Achalpur"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 42,
+   "Constituency Name": "Achalpur"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 42,
+   "Constituency Name": "Achalpur"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 42,
+   "Constituency Name": "Achalpur"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 42,
+   "Constituency Name": "Achalpur"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 43,
+   "Constituency Name": "Morshi"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 43,
+   "Constituency Name": "Morshi"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 43,
+   "Constituency Name": "Morshi"
+ },
+ {
+   "DIST_NAME": "Amravati",
+   "Constituency Number": 43,
+   "Constituency Name": "Morshi"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 44,
+   "Constituency Name": "Arvi "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 44,
+   "Constituency Name": "Arvi "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 44,
+   "Constituency Name": "Arvi "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 44,
+   "Constituency Name": "Arvi "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 44,
+   "Constituency Name": "Arvi "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 45,
+   "Constituency Name": "Deoli "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 45,
+   "Constituency Name": "Deoli "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 45,
+   "Constituency Name": "Deoli "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 45,
+   "Constituency Name": "Deoli "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 45,
+   "Constituency Name": "Deoli "
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 46,
+   "Constituency Name": "Hinganghat"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 46,
+   "Constituency Name": "Hinganghat"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 46,
+   "Constituency Name": "Hinganghat"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 46,
+   "Constituency Name": "Hinganghat"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 46,
+   "Constituency Name": "Hinganghat"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 47,
+   "Constituency Name": "Wardha"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 47,
+   "Constituency Name": "Wardha"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 47,
+   "Constituency Name": "Wardha"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 47,
+   "Constituency Name": "Wardha"
+ },
+ {
+   "DIST_NAME": "Wardha",
+   "Constituency Number": 47,
+   "Constituency Name": "Wardha"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 48,
+   "Constituency Name": "Katol"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 48,
+   "Constituency Name": "Katol"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 48,
+   "Constituency Name": "Katol"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 48,
+   "Constituency Name": "Katol"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 48,
+   "Constituency Name": "Katol"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 49,
+   "Constituency Name": "Savner"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 49,
+   "Constituency Name": "Savner"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 49,
+   "Constituency Name": "Savner"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 49,
+   "Constituency Name": "Savner"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 49,
+   "Constituency Name": "Savner"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 50,
+   "Constituency Name": "Hingna"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 50,
+   "Constituency Name": "Hingna"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 50,
+   "Constituency Name": "Hingna"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 50,
+   "Constituency Name": "Hingna"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 51,
+   "Constituency Name": "Umred "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 51,
+   "Constituency Name": "Umred "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 51,
+   "Constituency Name": "Umred "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 51,
+   "Constituency Name": "Umred "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 51,
+   "Constituency Name": "Umred "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 51,
+   "Constituency Name": "Umred "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 52,
+   "Constituency Name": "Nagpur South West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 52,
+   "Constituency Name": "Nagpur South West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 52,
+   "Constituency Name": "Nagpur South West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 52,
+   "Constituency Name": "Nagpur South West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 52,
+   "Constituency Name": "Nagpur South West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 53,
+   "Constituency Name": "Nagpur South"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 53,
+   "Constituency Name": "Nagpur South"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 53,
+   "Constituency Name": "Nagpur South"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 53,
+   "Constituency Name": "Nagpur South"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 53,
+   "Constituency Name": "Nagpur South"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 54,
+   "Constituency Name": "Nagpur East"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 54,
+   "Constituency Name": "Nagpur East"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 54,
+   "Constituency Name": "Nagpur East"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 54,
+   "Constituency Name": "Nagpur East"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 54,
+   "Constituency Name": "Nagpur East"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 55,
+   "Constituency Name": "Nagpur central"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 55,
+   "Constituency Name": "Nagpur central"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 55,
+   "Constituency Name": "Nagpur central"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 55,
+   "Constituency Name": "Nagpur central"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 55,
+   "Constituency Name": "Nagpur central"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 56,
+   "Constituency Name": "Nagpur West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 56,
+   "Constituency Name": "Nagpur West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 56,
+   "Constituency Name": "Nagpur West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 56,
+   "Constituency Name": "Nagpur West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 56,
+   "Constituency Name": "Nagpur West"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 57,
+   "Constituency Name": "Nagpur North"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 57,
+   "Constituency Name": "Nagpur North"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 57,
+   "Constituency Name": "Nagpur North"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 57,
+   "Constituency Name": "Nagpur North"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 57,
+   "Constituency Name": "Nagpur North"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 58,
+   "Constituency Name": "Kamthi"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 58,
+   "Constituency Name": "Kamthi"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 58,
+   "Constituency Name": "Kamthi"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 58,
+   "Constituency Name": "Kamthi"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 58,
+   "Constituency Name": "Kamthi"
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 59,
+   "Constituency Name": "Ramtek "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 59,
+   "Constituency Name": "Ramtek "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 59,
+   "Constituency Name": "Ramtek "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 59,
+   "Constituency Name": "Ramtek "
+ },
+ {
+   "DIST_NAME": "Nagpur",
+   "Constituency Number": 59,
+   "Constituency Name": "Ramtek "
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 60,
+   "Constituency Name": "Tumsar"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 60,
+   "Constituency Name": "Tumsar"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 60,
+   "Constituency Name": "Tumsar"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 60,
+   "Constituency Name": "Tumsar"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 60,
+   "Constituency Name": "Tumsar"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 61,
+   "Constituency Name": "Bhandara "
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 61,
+   "Constituency Name": "Bhandara "
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 61,
+   "Constituency Name": "Bhandara "
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 61,
+   "Constituency Name": "Bhandara "
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 61,
+   "Constituency Name": "Bhandara "
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 61,
+   "Constituency Name": "Bhandara "
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 62,
+   "Constituency Name": "Sakoli"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 62,
+   "Constituency Name": "Sakoli"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 62,
+   "Constituency Name": "Sakoli"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 62,
+   "Constituency Name": "Sakoli"
+ },
+ {
+   "DIST_NAME": "Bhandara",
+   "Constituency Number": 62,
+   "Constituency Name": "Sakoli"
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 63,
+   "Constituency Name": "Arjuni-morgaon "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 63,
+   "Constituency Name": "Arjuni-morgaon "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 63,
+   "Constituency Name": "Arjuni-morgaon "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 63,
+   "Constituency Name": "Arjuni-morgaon "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 64,
+   "Constituency Name": "Tirora "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 64,
+   "Constituency Name": "Tirora "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 64,
+   "Constituency Name": "Tirora "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 64,
+   "Constituency Name": "Tirora "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 64,
+   "Constituency Name": "Tirora "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 65,
+   "Constituency Name": "Gondiya"
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 65,
+   "Constituency Name": "Gondiya"
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 65,
+   "Constituency Name": "Gondiya"
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 65,
+   "Constituency Name": "Gondiya"
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 66,
+   "Constituency Name": "Amgaon "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 66,
+   "Constituency Name": "Amgaon "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 66,
+   "Constituency Name": "Amgaon "
+ },
+ {
+   "DIST_NAME": "Gondiya",
+   "Constituency Number": 66,
+   "Constituency Name": "Amgaon "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 67,
+   "Constituency Name": "Armori "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 67,
+   "Constituency Name": "Armori "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 67,
+   "Constituency Name": "Armori "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 67,
+   "Constituency Name": "Armori "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 67,
+   "Constituency Name": "Armori "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 68,
+   "Constituency Name": "Gadchiroli "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 68,
+   "Constituency Name": "Gadchiroli "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 68,
+   "Constituency Name": "Gadchiroli "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 68,
+   "Constituency Name": "Gadchiroli "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 69,
+   "Constituency Name": "Aheri "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 69,
+   "Constituency Name": "Aheri "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 69,
+   "Constituency Name": "Aheri "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 69,
+   "Constituency Name": "Aheri "
+ },
+ {
+   "DIST_NAME": "Gadchiroli",
+   "Constituency Number": 69,
+   "Constituency Name": "Aheri "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 70,
+   "Constituency Name": "Rajura"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 70,
+   "Constituency Name": "Rajura"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 70,
+   "Constituency Name": "Rajura"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 70,
+   "Constituency Name": "Rajura"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 71,
+   "Constituency Name": "Chandrapur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 71,
+   "Constituency Name": "Chandrapur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 71,
+   "Constituency Name": "Chandrapur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 71,
+   "Constituency Name": "Chandrapur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 71,
+   "Constituency Name": "Chandrapur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 72,
+   "Constituency Name": "Ballarpur"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 72,
+   "Constituency Name": "Ballarpur"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 72,
+   "Constituency Name": "Ballarpur"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 72,
+   "Constituency Name": "Ballarpur"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 72,
+   "Constituency Name": "Ballarpur"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 73,
+   "Constituency Name": "Brahmapuri"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 73,
+   "Constituency Name": "Brahmapuri"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 73,
+   "Constituency Name": "Brahmapuri"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 73,
+   "Constituency Name": "Brahmapuri"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 74,
+   "Constituency Name": "Chimur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 74,
+   "Constituency Name": "Chimur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 74,
+   "Constituency Name": "Chimur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 74,
+   "Constituency Name": "Chimur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 74,
+   "Constituency Name": "Chimur "
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 75,
+   "Constituency Name": "Warora"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 75,
+   "Constituency Name": "Warora"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 75,
+   "Constituency Name": "Warora"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 75,
+   "Constituency Name": "Warora"
+ },
+ {
+   "DIST_NAME": "Chandrapur",
+   "Constituency Number": 75,
+   "Constituency Name": "Warora"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 76,
+   "Constituency Name": "Wani "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 76,
+   "Constituency Name": "Wani "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 76,
+   "Constituency Name": "Wani "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 76,
+   "Constituency Name": "Wani "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 76,
+   "Constituency Name": "Wani "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 77,
+   "Constituency Name": "Ralegaon "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 77,
+   "Constituency Name": "Ralegaon "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 77,
+   "Constituency Name": "Ralegaon "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 77,
+   "Constituency Name": "Ralegaon "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 77,
+   "Constituency Name": "Ralegaon "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 78,
+   "Constituency Name": "Yavatmal"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 78,
+   "Constituency Name": "Yavatmal"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 78,
+   "Constituency Name": "Yavatmal"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 78,
+   "Constituency Name": "Yavatmal"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 78,
+   "Constituency Name": "Yavatmal"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 78,
+   "Constituency Name": "Yavatmal"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 79,
+   "Constituency Name": "Digras"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 79,
+   "Constituency Name": "Digras"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 79,
+   "Constituency Name": "Digras"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 79,
+   "Constituency Name": "Digras"
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 80,
+   "Constituency Name": "Arni "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 80,
+   "Constituency Name": "Arni "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 80,
+   "Constituency Name": "Arni "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 80,
+   "Constituency Name": "Arni "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 80,
+   "Constituency Name": "Arni "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 81,
+   "Constituency Name": "Pusad "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 81,
+   "Constituency Name": "Pusad "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 81,
+   "Constituency Name": "Pusad "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 81,
+   "Constituency Name": "Pusad "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 81,
+   "Constituency Name": "Pusad "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 82,
+   "Constituency Name": "Umarkhed "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 82,
+   "Constituency Name": "Umarkhed "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 82,
+   "Constituency Name": "Umarkhed "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 82,
+   "Constituency Name": "Umarkhed "
+ },
+ {
+   "DIST_NAME": "Yavatmal",
+   "Constituency Number": 82,
+   "Constituency Name": "Umarkhed "
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 83,
+   "Constituency Name": "Kinwat"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 83,
+   "Constituency Name": "Kinwat"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 83,
+   "Constituency Name": "Kinwat"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 83,
+   "Constituency Name": "Kinwat"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 83,
+   "Constituency Name": "Kinwat"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 84,
+   "Constituency Name": "Hadgaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 84,
+   "Constituency Name": "Hadgaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 84,
+   "Constituency Name": "Hadgaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 84,
+   "Constituency Name": "Hadgaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 84,
+   "Constituency Name": "Hadgaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 85,
+   "Constituency Name": "Bhokar"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 85,
+   "Constituency Name": "Bhokar"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 85,
+   "Constituency Name": "Bhokar"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 85,
+   "Constituency Name": "Bhokar"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 85,
+   "Constituency Name": "Bhokar"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 86,
+   "Constituency Name": "Nanded North"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 86,
+   "Constituency Name": "Nanded North"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 86,
+   "Constituency Name": "Nanded North"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 86,
+   "Constituency Name": "Nanded North"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 86,
+   "Constituency Name": "Nanded North"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 87,
+   "Constituency Name": "Nanded South"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 87,
+   "Constituency Name": "Nanded South"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 87,
+   "Constituency Name": "Nanded South"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 87,
+   "Constituency Name": "Nanded South"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 87,
+   "Constituency Name": "Nanded South"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 87,
+   "Constituency Name": "Nanded South"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 88,
+   "Constituency Name": "Loha"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 88,
+   "Constituency Name": "Loha"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 88,
+   "Constituency Name": "Loha"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 88,
+   "Constituency Name": "Loha"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 88,
+   "Constituency Name": "Loha"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 89,
+   "Constituency Name": "Naigaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 89,
+   "Constituency Name": "Naigaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 89,
+   "Constituency Name": "Naigaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 89,
+   "Constituency Name": "Naigaon"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 90,
+   "Constituency Name": "Deglur "
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 90,
+   "Constituency Name": "Deglur "
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 90,
+   "Constituency Name": "Deglur "
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 90,
+   "Constituency Name": "Deglur "
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 90,
+   "Constituency Name": "Deglur "
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 91,
+   "Constituency Name": "Mukhed"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 91,
+   "Constituency Name": "Mukhed"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 91,
+   "Constituency Name": "Mukhed"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 91,
+   "Constituency Name": "Mukhed"
+ },
+ {
+   "DIST_NAME": "Nanded",
+   "Constituency Number": 91,
+   "Constituency Name": "Mukhed"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 92,
+   "Constituency Name": "Basmath"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 92,
+   "Constituency Name": "Basmath"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 92,
+   "Constituency Name": "Basmath"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 92,
+   "Constituency Name": "Basmath"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 92,
+   "Constituency Name": "Basmath"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 93,
+   "Constituency Name": "Kalamnuri"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 93,
+   "Constituency Name": "Kalamnuri"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 93,
+   "Constituency Name": "Kalamnuri"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 93,
+   "Constituency Name": "Kalamnuri"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 94,
+   "Constituency Name": "Hingoli"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 94,
+   "Constituency Name": "Hingoli"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 94,
+   "Constituency Name": "Hingoli"
+ },
+ {
+   "DIST_NAME": "Hingoli",
+   "Constituency Number": 94,
+   "Constituency Name": "Hingoli"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 95,
+   "Constituency Name": "Jintur"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 95,
+   "Constituency Name": "Jintur"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 95,
+   "Constituency Name": "Jintur"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 95,
+   "Constituency Name": "Jintur"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 96,
+   "Constituency Name": "Parbhani "
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 96,
+   "Constituency Name": "Parbhani "
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 96,
+   "Constituency Name": "Parbhani "
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 96,
+   "Constituency Name": "Parbhani "
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 96,
+   "Constituency Name": "Parbhani "
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 96,
+   "Constituency Name": "Parbhani "
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 97,
+   "Constituency Name": "Gangakhed"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 97,
+   "Constituency Name": "Gangakhed"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 97,
+   "Constituency Name": "Gangakhed"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 97,
+   "Constituency Name": "Gangakhed"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 97,
+   "Constituency Name": "Gangakhed"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 98,
+   "Constituency Name": "Pathri"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 98,
+   "Constituency Name": "Pathri"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 98,
+   "Constituency Name": "Pathri"
+ },
+ {
+   "DIST_NAME": "Parbhani",
+   "Constituency Number": 98,
+   "Constituency Name": "Pathri"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 99,
+   "Constituency Name": "Partur"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 99,
+   "Constituency Name": "Partur"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 99,
+   "Constituency Name": "Partur"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 99,
+   "Constituency Name": "Partur"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 99,
+   "Constituency Name": "Partur"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 100,
+   "Constituency Name": "Ghansawangi"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 100,
+   "Constituency Name": "Ghansawangi"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 100,
+   "Constituency Name": "Ghansawangi"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 100,
+   "Constituency Name": "Ghansawangi"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 100,
+   "Constituency Name": "Ghansawangi"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 101,
+   "Constituency Name": "Jalna"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 101,
+   "Constituency Name": "Jalna"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 101,
+   "Constituency Name": "Jalna"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 101,
+   "Constituency Name": "Jalna"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 101,
+   "Constituency Name": "Jalna"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 102,
+   "Constituency Name": "Badnapur "
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 102,
+   "Constituency Name": "Badnapur "
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 102,
+   "Constituency Name": "Badnapur "
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 102,
+   "Constituency Name": "Badnapur "
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 102,
+   "Constituency Name": "Badnapur "
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 103,
+   "Constituency Name": "Bhokardan"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 103,
+   "Constituency Name": "Bhokardan"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 103,
+   "Constituency Name": "Bhokardan"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 103,
+   "Constituency Name": "Bhokardan"
+ },
+ {
+   "DIST_NAME": "Jalna",
+   "Constituency Number": 103,
+   "Constituency Name": "Bhokardan"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 104,
+   "Constituency Name": "Sillod"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 104,
+   "Constituency Name": "Sillod"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 104,
+   "Constituency Name": "Sillod"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 104,
+   "Constituency Name": "Sillod"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 104,
+   "Constituency Name": "Sillod"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 105,
+   "Constituency Name": "Kannad"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 105,
+   "Constituency Name": "Kannad"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 105,
+   "Constituency Name": "Kannad"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 105,
+   "Constituency Name": "Kannad"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 105,
+   "Constituency Name": "Kannad"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 106,
+   "Constituency Name": "Phulambri"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 106,
+   "Constituency Name": "Phulambri"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 106,
+   "Constituency Name": "Phulambri"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 106,
+   "Constituency Name": "Phulambri"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 107,
+   "Constituency Name": "Aurangabad central"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 107,
+   "Constituency Name": "Aurangabad central"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 107,
+   "Constituency Name": "Aurangabad central"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 107,
+   "Constituency Name": "Aurangabad central"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 107,
+   "Constituency Name": "Aurangabad central"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 107,
+   "Constituency Name": "Aurangabad central"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 108,
+   "Constituency Name": "Aurangabad West"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 108,
+   "Constituency Name": "Aurangabad West"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 108,
+   "Constituency Name": "Aurangabad West"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 108,
+   "Constituency Name": "Aurangabad West"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 108,
+   "Constituency Name": "Aurangabad West"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 108,
+   "Constituency Name": "Aurangabad West"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 109,
+   "Constituency Name": "Aurangabad East"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 109,
+   "Constituency Name": "Aurangabad East"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 109,
+   "Constituency Name": "Aurangabad East"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 109,
+   "Constituency Name": "Aurangabad East"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 109,
+   "Constituency Name": "Aurangabad East"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 110,
+   "Constituency Name": "Paithan"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 110,
+   "Constituency Name": "Paithan"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 110,
+   "Constituency Name": "Paithan"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 110,
+   "Constituency Name": "Paithan"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 110,
+   "Constituency Name": "Paithan"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 111,
+   "Constituency Name": "Gangapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 111,
+   "Constituency Name": "Gangapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 111,
+   "Constituency Name": "Gangapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 111,
+   "Constituency Name": "Gangapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 111,
+   "Constituency Name": "Gangapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 112,
+   "Constituency Name": "Vaijapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 112,
+   "Constituency Name": "Vaijapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 112,
+   "Constituency Name": "Vaijapur"
+ },
+ {
+   "DIST_NAME": "Aurangabad",
+   "Constituency Number": 112,
+   "Constituency Name": "Vaijapur"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 113,
+   "Constituency Name": "Nandgaon"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 113,
+   "Constituency Name": "Nandgaon"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 113,
+   "Constituency Name": "Nandgaon"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 113,
+   "Constituency Name": "Nandgaon"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 113,
+   "Constituency Name": "Nandgaon"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 114,
+   "Constituency Name": "Malegaon central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 114,
+   "Constituency Name": "Malegaon central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 114,
+   "Constituency Name": "Malegaon central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 114,
+   "Constituency Name": "Malegaon central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 115,
+   "Constituency Name": "Malegaon outer"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 115,
+   "Constituency Name": "Malegaon outer"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 115,
+   "Constituency Name": "Malegaon outer"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 115,
+   "Constituency Name": "Malegaon outer"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 115,
+   "Constituency Name": "Malegaon outer"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 116,
+   "Constituency Name": "Baglan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 116,
+   "Constituency Name": "Baglan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 116,
+   "Constituency Name": "Baglan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 116,
+   "Constituency Name": "Baglan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 116,
+   "Constituency Name": "Baglan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 117,
+   "Constituency Name": "Kalwan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 117,
+   "Constituency Name": "Kalwan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 117,
+   "Constituency Name": "Kalwan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 117,
+   "Constituency Name": "Kalwan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 117,
+   "Constituency Name": "Kalwan "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 118,
+   "Constituency Name": "Chandvad"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 118,
+   "Constituency Name": "Chandvad"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 118,
+   "Constituency Name": "Chandvad"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 118,
+   "Constituency Name": "Chandvad"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 118,
+   "Constituency Name": "Chandvad"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 119,
+   "Constituency Name": "Yevla"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 119,
+   "Constituency Name": "Yevla"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 119,
+   "Constituency Name": "Yevla"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 119,
+   "Constituency Name": "Yevla"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 119,
+   "Constituency Name": "Yevla"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 120,
+   "Constituency Name": "Sinnar"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 120,
+   "Constituency Name": "Sinnar"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 120,
+   "Constituency Name": "Sinnar"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 120,
+   "Constituency Name": "Sinnar"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 120,
+   "Constituency Name": "Sinnar"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 121,
+   "Constituency Name": "Niphad "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 121,
+   "Constituency Name": "Niphad "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 121,
+   "Constituency Name": "Niphad "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 121,
+   "Constituency Name": "Niphad "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 121,
+   "Constituency Name": "Niphad "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 122,
+   "Constituency Name": "Dindori "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 122,
+   "Constituency Name": "Dindori "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 122,
+   "Constituency Name": "Dindori "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 122,
+   "Constituency Name": "Dindori "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 123,
+   "Constituency Name": "Nashik East"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 123,
+   "Constituency Name": "Nashik East"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 123,
+   "Constituency Name": "Nashik East"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 123,
+   "Constituency Name": "Nashik East"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 123,
+   "Constituency Name": "Nashik East"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 124,
+   "Constituency Name": "Nashik central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 124,
+   "Constituency Name": "Nashik central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 124,
+   "Constituency Name": "Nashik central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 124,
+   "Constituency Name": "Nashik central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 124,
+   "Constituency Name": "Nashik central"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 125,
+   "Constituency Name": "Nashik West"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 125,
+   "Constituency Name": "Nashik West"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 125,
+   "Constituency Name": "Nashik West"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 125,
+   "Constituency Name": "Nashik West"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 125,
+   "Constituency Name": "Nashik West"
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 126,
+   "Constituency Name": "Devlali  "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 126,
+   "Constituency Name": "Devlali  "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 126,
+   "Constituency Name": "Devlali  "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 126,
+   "Constituency Name": "Devlali  "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 126,
+   "Constituency Name": "Devlali  "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 127,
+   "Constituency Name": "Igatpuri "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 127,
+   "Constituency Name": "Igatpuri "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 127,
+   "Constituency Name": "Igatpuri "
+ },
+ {
+   "DIST_NAME": "Nashik",
+   "Constituency Number": 127,
+   "Constituency Name": "Igatpuri "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 128,
+   "Constituency Name": "Dahanu "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 128,
+   "Constituency Name": "Dahanu "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 128,
+   "Constituency Name": "Dahanu "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 128,
+   "Constituency Name": "Dahanu "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 128,
+   "Constituency Name": "Dahanu "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 129,
+   "Constituency Name": "Vikramgad "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 129,
+   "Constituency Name": "Vikramgad "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 129,
+   "Constituency Name": "Vikramgad "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 129,
+   "Constituency Name": "Vikramgad "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 129,
+   "Constituency Name": "Vikramgad "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 130,
+   "Constituency Name": "Palghar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 130,
+   "Constituency Name": "Palghar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 130,
+   "Constituency Name": "Palghar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 130,
+   "Constituency Name": "Palghar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 131,
+   "Constituency Name": "Boisar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 131,
+   "Constituency Name": "Boisar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 131,
+   "Constituency Name": "Boisar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 131,
+   "Constituency Name": "Boisar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 131,
+   "Constituency Name": "Boisar "
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 132,
+   "Constituency Name": "Nalasopara"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 132,
+   "Constituency Name": "Nalasopara"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 132,
+   "Constituency Name": "Nalasopara"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 132,
+   "Constituency Name": "Nalasopara"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 132,
+   "Constituency Name": "Nalasopara"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 133,
+   "Constituency Name": "Vasai"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 133,
+   "Constituency Name": "Vasai"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 133,
+   "Constituency Name": "Vasai"
+ },
+ {
+   "DIST_NAME": "Palghar",
+   "Constituency Number": 133,
+   "Constituency Name": "Vasai"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 134,
+   "Constituency Name": "Bhiwandi Rural (S.T.)"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 134,
+   "Constituency Name": "Bhiwandi Rural (S.T.)"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 134,
+   "Constituency Name": "Bhiwandi Rural (S.T.)"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 134,
+   "Constituency Name": "Bhiwandi Rural (S.T.)"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 134,
+   "Constituency Name": "Bhiwandi Rural (S.T.)"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 134,
+   "Constituency Name": "Bhiwandi Rural (S.T.)"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 135,
+   "Constituency Name": "shahapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 135,
+   "Constituency Name": "shahapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 135,
+   "Constituency Name": "shahapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 135,
+   "Constituency Name": "shahapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 135,
+   "Constituency Name": "shahapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 136,
+   "Constituency Name": "Bhiwandi West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 136,
+   "Constituency Name": "Bhiwandi West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 136,
+   "Constituency Name": "Bhiwandi West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 136,
+   "Constituency Name": "Bhiwandi West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 136,
+   "Constituency Name": "Bhiwandi West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 137,
+   "Constituency Name": "Bhiwandi East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 137,
+   "Constituency Name": "Bhiwandi East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 137,
+   "Constituency Name": "Bhiwandi East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 137,
+   "Constituency Name": "Bhiwandi East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 137,
+   "Constituency Name": "Bhiwandi East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 137,
+   "Constituency Name": "Bhiwandi East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 138,
+   "Constituency Name": "Kalyan West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 138,
+   "Constituency Name": "Kalyan West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 138,
+   "Constituency Name": "Kalyan West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 138,
+   "Constituency Name": "Kalyan West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 138,
+   "Constituency Name": "Kalyan West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 138,
+   "Constituency Name": "Kalyan West"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 139,
+   "Constituency Name": "Murbad"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 139,
+   "Constituency Name": "Murbad"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 139,
+   "Constituency Name": "Murbad"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 139,
+   "Constituency Name": "Murbad"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 139,
+   "Constituency Name": "Murbad"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 140,
+   "Constituency Name": "Ambernath "
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 140,
+   "Constituency Name": "Ambernath "
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 140,
+   "Constituency Name": "Ambernath "
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 140,
+   "Constituency Name": "Ambernath "
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 140,
+   "Constituency Name": "Ambernath "
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 141,
+   "Constituency Name": "Ulhasnagar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 141,
+   "Constituency Name": "Ulhasnagar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 141,
+   "Constituency Name": "Ulhasnagar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 141,
+   "Constituency Name": "Ulhasnagar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 141,
+   "Constituency Name": "Ulhasnagar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 142,
+   "Constituency Name": "Kalyan East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 142,
+   "Constituency Name": "Kalyan East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 142,
+   "Constituency Name": "Kalyan East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 142,
+   "Constituency Name": "Kalyan East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 142,
+   "Constituency Name": "Kalyan East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 142,
+   "Constituency Name": "Kalyan East"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 143,
+   "Constituency Name": "Dombivali"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 143,
+   "Constituency Name": "Dombivali"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 143,
+   "Constituency Name": "Dombivali"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 143,
+   "Constituency Name": "Dombivali"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 143,
+   "Constituency Name": "Dombivali"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 143,
+   "Constituency Name": "Dombivali"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 144,
+   "Constituency Name": "Kalyan Rural"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 144,
+   "Constituency Name": "Kalyan Rural"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 144,
+   "Constituency Name": "Kalyan Rural"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 144,
+   "Constituency Name": "Kalyan Rural"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 144,
+   "Constituency Name": "Kalyan Rural"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 145,
+   "Constituency Name": "Mira Bhayandar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 145,
+   "Constituency Name": "Mira Bhayandar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 145,
+   "Constituency Name": "Mira Bhayandar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 145,
+   "Constituency Name": "Mira Bhayandar"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 146,
+   "Constituency Name": "Ovala - Majiwada"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 146,
+   "Constituency Name": "Ovala - Majiwada"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 146,
+   "Constituency Name": "Ovala - Majiwada"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 146,
+   "Constituency Name": "Ovala - Majiwada"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 146,
+   "Constituency Name": "Ovala - Majiwada"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 147,
+   "Constituency Name": "Kopri-Pachpakhadi"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 147,
+   "Constituency Name": "Kopri-Pachpakhadi"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 147,
+   "Constituency Name": "Kopri-Pachpakhadi"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 147,
+   "Constituency Name": "Kopri-Pachpakhadi"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 147,
+   "Constituency Name": "Kopri-Pachpakhadi"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 148,
+   "Constituency Name": "Thane"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 148,
+   "Constituency Name": "Thane"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 148,
+   "Constituency Name": "Thane"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 148,
+   "Constituency Name": "Thane"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 148,
+   "Constituency Name": "Thane"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 149,
+   "Constituency Name": "Mumbra-Kalwa"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 149,
+   "Constituency Name": "Mumbra-Kalwa"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 149,
+   "Constituency Name": "Mumbra-Kalwa"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 149,
+   "Constituency Name": "Mumbra-Kalwa"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 149,
+   "Constituency Name": "Mumbra-Kalwa"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 150,
+   "Constituency Name": "Airoli"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 150,
+   "Constituency Name": "Airoli"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 150,
+   "Constituency Name": "Airoli"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 150,
+   "Constituency Name": "Airoli"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 150,
+   "Constituency Name": "Airoli"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 151,
+   "Constituency Name": "Belapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 151,
+   "Constituency Name": "Belapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 151,
+   "Constituency Name": "Belapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 151,
+   "Constituency Name": "Belapur"
+ },
+ {
+   "DIST_NAME": "Thane",
+   "Constituency Number": 151,
+   "Constituency Name": "Belapur"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 152,
+   "Constituency Name": "Borivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 152,
+   "Constituency Name": "Borivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 152,
+   "Constituency Name": "Borivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 152,
+   "Constituency Name": "Borivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 152,
+   "Constituency Name": "Borivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 152,
+   "Constituency Name": "Borivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 153,
+   "Constituency Name": "Dahisar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 153,
+   "Constituency Name": "Dahisar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 153,
+   "Constituency Name": "Dahisar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 153,
+   "Constituency Name": "Dahisar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 153,
+   "Constituency Name": "Dahisar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 154,
+   "Constituency Name": "Magathane"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 154,
+   "Constituency Name": "Magathane"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 154,
+   "Constituency Name": "Magathane"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 154,
+   "Constituency Name": "Magathane"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 154,
+   "Constituency Name": "Magathane"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 154,
+   "Constituency Name": "Magathane"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 155,
+   "Constituency Name": "Mulund"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 155,
+   "Constituency Name": "Mulund"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 155,
+   "Constituency Name": "Mulund"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 155,
+   "Constituency Name": "Mulund"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 155,
+   "Constituency Name": "Mulund"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 156,
+   "Constituency Name": "Vikhroli"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 156,
+   "Constituency Name": "Vikhroli"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 156,
+   "Constituency Name": "Vikhroli"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 156,
+   "Constituency Name": "Vikhroli"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 156,
+   "Constituency Name": "Vikhroli"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 157,
+   "Constituency Name": "Bhandup West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 157,
+   "Constituency Name": "Bhandup West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 157,
+   "Constituency Name": "Bhandup West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 157,
+   "Constituency Name": "Bhandup West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 157,
+   "Constituency Name": "Bhandup West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 157,
+   "Constituency Name": "Bhandup West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 158,
+   "Constituency Name": "Jogeshwari East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 158,
+   "Constituency Name": "Jogeshwari East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 158,
+   "Constituency Name": "Jogeshwari East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 158,
+   "Constituency Name": "Jogeshwari East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 158,
+   "Constituency Name": "Jogeshwari East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 159,
+   "Constituency Name": "Dindoshi"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 159,
+   "Constituency Name": "Dindoshi"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 159,
+   "Constituency Name": "Dindoshi"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 159,
+   "Constituency Name": "Dindoshi"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 159,
+   "Constituency Name": "Dindoshi"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 160,
+   "Constituency Name": "Kandivali East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 160,
+   "Constituency Name": "Kandivali East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 160,
+   "Constituency Name": "Kandivali East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 160,
+   "Constituency Name": "Kandivali East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 160,
+   "Constituency Name": "Kandivali East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 161,
+   "Constituency Name": "Charkop"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 161,
+   "Constituency Name": "Charkop"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 161,
+   "Constituency Name": "Charkop"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 161,
+   "Constituency Name": "Charkop"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 161,
+   "Constituency Name": "Charkop"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 162,
+   "Constituency Name": "Malad West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 162,
+   "Constituency Name": "Malad West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 162,
+   "Constituency Name": "Malad West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 162,
+   "Constituency Name": "Malad West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 162,
+   "Constituency Name": "Malad West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 163,
+   "Constituency Name": "Goregaon"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 163,
+   "Constituency Name": "Goregaon"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 163,
+   "Constituency Name": "Goregaon"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 163,
+   "Constituency Name": "Goregaon"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 163,
+   "Constituency Name": "Goregaon"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 164,
+   "Constituency Name": "Versova"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 164,
+   "Constituency Name": "Versova"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 164,
+   "Constituency Name": "Versova"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 164,
+   "Constituency Name": "Versova"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 164,
+   "Constituency Name": "Versova"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 165,
+   "Constituency Name": "Andheri West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 165,
+   "Constituency Name": "Andheri West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 165,
+   "Constituency Name": "Andheri West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 165,
+   "Constituency Name": "Andheri West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 165,
+   "Constituency Name": "Andheri West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 166,
+   "Constituency Name": "Andheri East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 166,
+   "Constituency Name": "Andheri East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 166,
+   "Constituency Name": "Andheri East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 166,
+   "Constituency Name": "Andheri East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 166,
+   "Constituency Name": "Andheri East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 167,
+   "Constituency Name": "Vile parle"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 167,
+   "Constituency Name": "Vile parle"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 167,
+   "Constituency Name": "Vile parle"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 167,
+   "Constituency Name": "Vile parle"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 167,
+   "Constituency Name": "Vile parle"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 168,
+   "Constituency Name": "Chandivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 168,
+   "Constituency Name": "Chandivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 168,
+   "Constituency Name": "Chandivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 168,
+   "Constituency Name": "Chandivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 168,
+   "Constituency Name": "Chandivali"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 169,
+   "Constituency Name": "Ghatkopar West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 169,
+   "Constituency Name": "Ghatkopar West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 169,
+   "Constituency Name": "Ghatkopar West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 169,
+   "Constituency Name": "Ghatkopar West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 169,
+   "Constituency Name": "Ghatkopar West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 169,
+   "Constituency Name": "Ghatkopar West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 170,
+   "Constituency Name": "Ghatkopar East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 170,
+   "Constituency Name": "Ghatkopar East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 170,
+   "Constituency Name": "Ghatkopar East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 170,
+   "Constituency Name": "Ghatkopar East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 170,
+   "Constituency Name": "Ghatkopar East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 171,
+   "Constituency Name": "Mankhurd shivaji Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 171,
+   "Constituency Name": "Mankhurd shivaji Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 171,
+   "Constituency Name": "Mankhurd shivaji Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 171,
+   "Constituency Name": "Mankhurd shivaji Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 171,
+   "Constituency Name": "Mankhurd shivaji Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 172,
+   "Constituency Name": "Anushakti Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 172,
+   "Constituency Name": "Anushakti Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 172,
+   "Constituency Name": "Anushakti Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 172,
+   "Constituency Name": "Anushakti Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 172,
+   "Constituency Name": "Anushakti Nagar"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 173,
+   "Constituency Name": "Chembur"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 173,
+   "Constituency Name": "Chembur"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 173,
+   "Constituency Name": "Chembur"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 173,
+   "Constituency Name": "Chembur"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 173,
+   "Constituency Name": "Chembur"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 174,
+   "Constituency Name": "Kurla "
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 174,
+   "Constituency Name": "Kurla "
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 174,
+   "Constituency Name": "Kurla "
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 174,
+   "Constituency Name": "Kurla "
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 174,
+   "Constituency Name": "Kurla "
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 174,
+   "Constituency Name": "Kurla "
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 175,
+   "Constituency Name": "Kalina"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 175,
+   "Constituency Name": "Kalina"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 175,
+   "Constituency Name": "Kalina"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 175,
+   "Constituency Name": "Kalina"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 175,
+   "Constituency Name": "Kalina"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 176,
+   "Constituency Name": "Vandre East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 176,
+   "Constituency Name": "Vandre East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 176,
+   "Constituency Name": "Vandre East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 176,
+   "Constituency Name": "Vandre East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 176,
+   "Constituency Name": "Vandre East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 176,
+   "Constituency Name": "Vandre East"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 177,
+   "Constituency Name": "Vandre West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 177,
+   "Constituency Name": "Vandre West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 177,
+   "Constituency Name": "Vandre West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 177,
+   "Constituency Name": "Vandre West"
+ },
+ {
+   "DIST_NAME": "Mumbai Suburban",
+   "Constituency Number": 177,
+   "Constituency Name": "Vandre West"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 178,
+   "Constituency Name": "Dharavi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 178,
+   "Constituency Name": "Dharavi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 178,
+   "Constituency Name": "Dharavi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 178,
+   "Constituency Name": "Dharavi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 178,
+   "Constituency Name": "Dharavi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 179,
+   "Constituency Name": "Sion koliwada"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 179,
+   "Constituency Name": "Sion koliwada"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 179,
+   "Constituency Name": "Sion koliwada"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 179,
+   "Constituency Name": "Sion koliwada"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 179,
+   "Constituency Name": "Sion koliwada"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 180,
+   "Constituency Name": "Wadala"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 180,
+   "Constituency Name": "Wadala"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 180,
+   "Constituency Name": "Wadala"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 180,
+   "Constituency Name": "Wadala"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 180,
+   "Constituency Name": "Wadala"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 181,
+   "Constituency Name": "Mahim"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 181,
+   "Constituency Name": "Mahim"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 181,
+   "Constituency Name": "Mahim"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 181,
+   "Constituency Name": "Mahim"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 181,
+   "Constituency Name": "Mahim"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 181,
+   "Constituency Name": "Mahim"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 182,
+   "Constituency Name": "Worli"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 182,
+   "Constituency Name": "Worli"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 182,
+   "Constituency Name": "Worli"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 182,
+   "Constituency Name": "Worli"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 182,
+   "Constituency Name": "Worli"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 183,
+   "Constituency Name": "Shivadi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 183,
+   "Constituency Name": "Shivadi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 183,
+   "Constituency Name": "Shivadi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 183,
+   "Constituency Name": "Shivadi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 183,
+   "Constituency Name": "Shivadi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 183,
+   "Constituency Name": "Shivadi "
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 184,
+   "Constituency Name": "Byculla"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 184,
+   "Constituency Name": "Byculla"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 184,
+   "Constituency Name": "Byculla"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 184,
+   "Constituency Name": "Byculla"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 185,
+   "Constituency Name": "Malabar hill"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 185,
+   "Constituency Name": "Malabar hill"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 185,
+   "Constituency Name": "Malabar hill"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 185,
+   "Constituency Name": "Malabar hill"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 185,
+   "Constituency Name": "Malabar hill"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 186,
+   "Constituency Name": "Mumbadevi"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 186,
+   "Constituency Name": "Mumbadevi"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 186,
+   "Constituency Name": "Mumbadevi"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 186,
+   "Constituency Name": "Mumbadevi"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 186,
+   "Constituency Name": "Mumbadevi"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 187,
+   "Constituency Name": "Colaba"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 187,
+   "Constituency Name": "Colaba"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 187,
+   "Constituency Name": "Colaba"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 187,
+   "Constituency Name": "Colaba"
+ },
+ {
+   "DIST_NAME": "Mumbai City",
+   "Constituency Number": 187,
+   "Constituency Name": "Colaba"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 188,
+   "Constituency Name": "Panvel "
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 188,
+   "Constituency Name": "Panvel "
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 188,
+   "Constituency Name": "Panvel "
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 188,
+   "Constituency Name": "Panvel "
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 188,
+   "Constituency Name": "Panvel "
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 188,
+   "Constituency Name": "Panvel "
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 189,
+   "Constituency Name": "Karjat"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 189,
+   "Constituency Name": "Karjat"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 189,
+   "Constituency Name": "Karjat"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 189,
+   "Constituency Name": "Karjat"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 189,
+   "Constituency Name": "Karjat"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 190,
+   "Constituency Name": "Uran"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 190,
+   "Constituency Name": "Uran"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 190,
+   "Constituency Name": "Uran"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 190,
+   "Constituency Name": "Uran"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 190,
+   "Constituency Name": "Uran"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 191,
+   "Constituency Name": "Pen"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 191,
+   "Constituency Name": "Pen"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 191,
+   "Constituency Name": "Pen"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 191,
+   "Constituency Name": "Pen"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 191,
+   "Constituency Name": "Pen"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 192,
+   "Constituency Name": "Alibag"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 192,
+   "Constituency Name": "Alibag"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 192,
+   "Constituency Name": "Alibag"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 192,
+   "Constituency Name": "Alibag"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 192,
+   "Constituency Name": "Alibag"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 193,
+   "Constituency Name": "Shrivardhan"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 193,
+   "Constituency Name": "Shrivardhan"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 193,
+   "Constituency Name": "Shrivardhan"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 193,
+   "Constituency Name": "Shrivardhan"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 193,
+   "Constituency Name": "Shrivardhan"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 194,
+   "Constituency Name": "Mahad"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 194,
+   "Constituency Name": "Mahad"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 194,
+   "Constituency Name": "Mahad"
+ },
+ {
+   "DIST_NAME": "Raigad",
+   "Constituency Number": 194,
+   "Constituency Name": "Mahad"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 195,
+   "Constituency Name": "Junnar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 195,
+   "Constituency Name": "Junnar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 195,
+   "Constituency Name": "Junnar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 195,
+   "Constituency Name": "Junnar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 195,
+   "Constituency Name": "Junnar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 196,
+   "Constituency Name": "Ambegaon"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 196,
+   "Constituency Name": "Ambegaon"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 196,
+   "Constituency Name": "Ambegaon"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 196,
+   "Constituency Name": "Ambegaon"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 196,
+   "Constituency Name": "Ambegaon"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 197,
+   "Constituency Name": "Khed alandi"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 197,
+   "Constituency Name": "Khed alandi"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 197,
+   "Constituency Name": "Khed alandi"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 197,
+   "Constituency Name": "Khed alandi"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 197,
+   "Constituency Name": "Khed alandi"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 198,
+   "Constituency Name": "Shirur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 198,
+   "Constituency Name": "Shirur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 198,
+   "Constituency Name": "Shirur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 198,
+   "Constituency Name": "Shirur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 198,
+   "Constituency Name": "Shirur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 199,
+   "Constituency Name": "Daund"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 199,
+   "Constituency Name": "Daund"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 199,
+   "Constituency Name": "Daund"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 199,
+   "Constituency Name": "Daund"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 199,
+   "Constituency Name": "Daund"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 200,
+   "Constituency Name": "Indapur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 200,
+   "Constituency Name": "Indapur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 200,
+   "Constituency Name": "Indapur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 200,
+   "Constituency Name": "Indapur"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 201,
+   "Constituency Name": "Baramati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 201,
+   "Constituency Name": "Baramati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 201,
+   "Constituency Name": "Baramati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 201,
+   "Constituency Name": "Baramati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 201,
+   "Constituency Name": "Baramati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 202,
+   "Constituency Name": "Purandar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 202,
+   "Constituency Name": "Purandar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 202,
+   "Constituency Name": "Purandar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 202,
+   "Constituency Name": "Purandar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 203,
+   "Constituency Name": "Bhor"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 203,
+   "Constituency Name": "Bhor"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 203,
+   "Constituency Name": "Bhor"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 203,
+   "Constituency Name": "Bhor"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 204,
+   "Constituency Name": "Maval "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 204,
+   "Constituency Name": "Maval "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 204,
+   "Constituency Name": "Maval "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 204,
+   "Constituency Name": "Maval "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 205,
+   "Constituency Name": "Chinchwad"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 205,
+   "Constituency Name": "Chinchwad"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 205,
+   "Constituency Name": "Chinchwad"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 205,
+   "Constituency Name": "Chinchwad"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 205,
+   "Constituency Name": "Chinchwad"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 206,
+   "Constituency Name": "Pimpri "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 206,
+   "Constituency Name": "Pimpri "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 206,
+   "Constituency Name": "Pimpri "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 206,
+   "Constituency Name": "Pimpri "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 206,
+   "Constituency Name": "Pimpri "
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 207,
+   "Constituency Name": "Bhosari"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 207,
+   "Constituency Name": "Bhosari"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 207,
+   "Constituency Name": "Bhosari"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 207,
+   "Constituency Name": "Bhosari"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 207,
+   "Constituency Name": "Bhosari"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 208,
+   "Constituency Name": "VADGAON SHERI"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 208,
+   "Constituency Name": "VADGAON SHERI"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 208,
+   "Constituency Name": "VADGAON SHERI"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 208,
+   "Constituency Name": "VADGAON SHERI"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 208,
+   "Constituency Name": "VADGAON SHERI"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 209,
+   "Constituency Name": "Shivajinagar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 209,
+   "Constituency Name": "Shivajinagar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 209,
+   "Constituency Name": "Shivajinagar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 209,
+   "Constituency Name": "Shivajinagar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 210,
+   "Constituency Name": "Kothrud"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 210,
+   "Constituency Name": "Kothrud"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 210,
+   "Constituency Name": "Kothrud"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 210,
+   "Constituency Name": "Kothrud"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 210,
+   "Constituency Name": "Kothrud"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 211,
+   "Constituency Name": "Khadakwasala"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 211,
+   "Constituency Name": "Khadakwasala"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 211,
+   "Constituency Name": "Khadakwasala"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 211,
+   "Constituency Name": "Khadakwasala"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 211,
+   "Constituency Name": "Khadakwasala"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 212,
+   "Constituency Name": "Parvati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 212,
+   "Constituency Name": "Parvati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 212,
+   "Constituency Name": "Parvati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 212,
+   "Constituency Name": "Parvati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 212,
+   "Constituency Name": "Parvati"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 213,
+   "Constituency Name": "Hadapsar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 213,
+   "Constituency Name": "Hadapsar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 213,
+   "Constituency Name": "Hadapsar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 213,
+   "Constituency Name": "Hadapsar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 213,
+   "Constituency Name": "Hadapsar"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 214,
+   "Constituency Name": "Pune cantonment"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 214,
+   "Constituency Name": "Pune cantonment"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 214,
+   "Constituency Name": "Pune cantonment"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 214,
+   "Constituency Name": "Pune cantonment"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 214,
+   "Constituency Name": "Pune cantonment"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 215,
+   "Constituency Name": "Kasba peth"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 215,
+   "Constituency Name": "Kasba peth"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 215,
+   "Constituency Name": "Kasba peth"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 215,
+   "Constituency Name": "Kasba peth"
+ },
+ {
+   "DIST_NAME": "Pune",
+   "Constituency Number": 215,
+   "Constituency Name": "Kasba peth"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 216,
+   "Constituency Name": "Akole "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 216,
+   "Constituency Name": "Akole "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 216,
+   "Constituency Name": "Akole "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 216,
+   "Constituency Name": "Akole "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 216,
+   "Constituency Name": "Akole "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 217,
+   "Constituency Name": "Sangamner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 217,
+   "Constituency Name": "Sangamner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 217,
+   "Constituency Name": "Sangamner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 217,
+   "Constituency Name": "Sangamner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 217,
+   "Constituency Name": "Sangamner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 218,
+   "Constituency Name": "Shirdi"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 218,
+   "Constituency Name": "Shirdi"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 218,
+   "Constituency Name": "Shirdi"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 218,
+   "Constituency Name": "Shirdi"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 218,
+   "Constituency Name": "Shirdi"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 219,
+   "Constituency Name": "Kopargaon"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 219,
+   "Constituency Name": "Kopargaon"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 219,
+   "Constituency Name": "Kopargaon"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 219,
+   "Constituency Name": "Kopargaon"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 219,
+   "Constituency Name": "Kopargaon"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 220,
+   "Constituency Name": "Shrirampur "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 220,
+   "Constituency Name": "Shrirampur "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 220,
+   "Constituency Name": "Shrirampur "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 220,
+   "Constituency Name": "Shrirampur "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 220,
+   "Constituency Name": "Shrirampur "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 221,
+   "Constituency Name": "Nevasa"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 221,
+   "Constituency Name": "Nevasa"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 221,
+   "Constituency Name": "Nevasa"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 221,
+   "Constituency Name": "Nevasa"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 221,
+   "Constituency Name": "Nevasa"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 222,
+   "Constituency Name": "Shevgaon "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 222,
+   "Constituency Name": "Shevgaon "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 222,
+   "Constituency Name": "Shevgaon "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 222,
+   "Constituency Name": "Shevgaon "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 222,
+   "Constituency Name": "Shevgaon "
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 223,
+   "Constituency Name": "Rahuri"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 223,
+   "Constituency Name": "Rahuri"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 223,
+   "Constituency Name": "Rahuri"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 223,
+   "Constituency Name": "Rahuri"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 223,
+   "Constituency Name": "Rahuri"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 224,
+   "Constituency Name": "Parner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 224,
+   "Constituency Name": "Parner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 224,
+   "Constituency Name": "Parner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 224,
+   "Constituency Name": "Parner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 224,
+   "Constituency Name": "Parner"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 225,
+   "Constituency Name": "Ahmednagar City"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 225,
+   "Constituency Name": "Ahmednagar City"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 225,
+   "Constituency Name": "Ahmednagar City"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 225,
+   "Constituency Name": "Ahmednagar City"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 225,
+   "Constituency Name": "Ahmednagar City"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 226,
+   "Constituency Name": "Shrigonda"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 226,
+   "Constituency Name": "Shrigonda"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 226,
+   "Constituency Name": "Shrigonda"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 226,
+   "Constituency Name": "Shrigonda"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 226,
+   "Constituency Name": "Shrigonda"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 227,
+   "Constituency Name": "Karjat jamkhed"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 227,
+   "Constituency Name": "Karjat jamkhed"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 227,
+   "Constituency Name": "Karjat jamkhed"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 227,
+   "Constituency Name": "Karjat jamkhed"
+ },
+ {
+   "DIST_NAME": "Ahmednagar",
+   "Constituency Number": 227,
+   "Constituency Name": "Karjat jamkhed"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 228,
+   "Constituency Name": "Georai"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 228,
+   "Constituency Name": "Georai"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 228,
+   "Constituency Name": "Georai"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 228,
+   "Constituency Name": "Georai"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 229,
+   "Constituency Name": "Majalgaon"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 229,
+   "Constituency Name": "Majalgaon"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 229,
+   "Constituency Name": "Majalgaon"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 229,
+   "Constituency Name": "Majalgaon"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 230,
+   "Constituency Name": "Beed"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 230,
+   "Constituency Name": "Beed"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 230,
+   "Constituency Name": "Beed"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 230,
+   "Constituency Name": "Beed"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 230,
+   "Constituency Name": "Beed"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 231,
+   "Constituency Name": "Ashti"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 231,
+   "Constituency Name": "Ashti"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 231,
+   "Constituency Name": "Ashti"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 231,
+   "Constituency Name": "Ashti"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 232,
+   "Constituency Name": "Kaij "
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 232,
+   "Constituency Name": "Kaij "
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 232,
+   "Constituency Name": "Kaij "
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 232,
+   "Constituency Name": "Kaij "
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 233,
+   "Constituency Name": "Parli"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 233,
+   "Constituency Name": "Parli"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 233,
+   "Constituency Name": "Parli"
+ },
+ {
+   "DIST_NAME": "Beed",
+   "Constituency Number": 233,
+   "Constituency Name": "Parli"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 234,
+   "Constituency Name": "Latur Rural"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 234,
+   "Constituency Name": "Latur Rural"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 234,
+   "Constituency Name": "Latur Rural"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 234,
+   "Constituency Name": "Latur Rural"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 234,
+   "Constituency Name": "Latur Rural"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 235,
+   "Constituency Name": "Latur City"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 235,
+   "Constituency Name": "Latur City"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 235,
+   "Constituency Name": "Latur City"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 235,
+   "Constituency Name": "Latur City"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 236,
+   "Constituency Name": "Ahmadpur "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 236,
+   "Constituency Name": "Ahmadpur "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 236,
+   "Constituency Name": "Ahmadpur "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 236,
+   "Constituency Name": "Ahmadpur "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 236,
+   "Constituency Name": "Ahmadpur "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 237,
+   "Constituency Name": "Udgir "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 237,
+   "Constituency Name": "Udgir "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 237,
+   "Constituency Name": "Udgir "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 237,
+   "Constituency Name": "Udgir "
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 238,
+   "Constituency Name": "Nilanga"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 238,
+   "Constituency Name": "Nilanga"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 238,
+   "Constituency Name": "Nilanga"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 238,
+   "Constituency Name": "Nilanga"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 238,
+   "Constituency Name": "Nilanga"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 239,
+   "Constituency Name": "Ausa"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 239,
+   "Constituency Name": "Ausa"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 239,
+   "Constituency Name": "Ausa"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 239,
+   "Constituency Name": "Ausa"
+ },
+ {
+   "DIST_NAME": "Latur",
+   "Constituency Number": 239,
+   "Constituency Name": "Ausa"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 240,
+   "Constituency Name": "Umarga "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 240,
+   "Constituency Name": "Umarga "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 240,
+   "Constituency Name": "Umarga "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 240,
+   "Constituency Name": "Umarga "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 240,
+   "Constituency Name": "Umarga "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 241,
+   "Constituency Name": "Tuljapur"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 241,
+   "Constituency Name": "Tuljapur"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 241,
+   "Constituency Name": "Tuljapur"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 241,
+   "Constituency Name": "Tuljapur"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 242,
+   "Constituency Name": "Osmanabad"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 242,
+   "Constituency Name": "Osmanabad"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 242,
+   "Constituency Name": "Osmanabad"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 242,
+   "Constituency Name": "Osmanabad"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 242,
+   "Constituency Name": "Osmanabad"
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 243,
+   "Constituency Name": "Paranda "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 243,
+   "Constituency Name": "Paranda "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 243,
+   "Constituency Name": "Paranda "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 243,
+   "Constituency Name": "Paranda "
+ },
+ {
+   "DIST_NAME": "Osmanabad",
+   "Constituency Number": 243,
+   "Constituency Name": "Paranda "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 244,
+   "Constituency Name": "Karmala"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 244,
+   "Constituency Name": "Karmala"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 244,
+   "Constituency Name": "Karmala"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 244,
+   "Constituency Name": "Karmala"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 244,
+   "Constituency Name": "Karmala"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 245,
+   "Constituency Name": "Madha"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 245,
+   "Constituency Name": "Madha"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 245,
+   "Constituency Name": "Madha"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 245,
+   "Constituency Name": "Madha"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 246,
+   "Constituency Name": "Barshi "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 246,
+   "Constituency Name": "Barshi "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 246,
+   "Constituency Name": "Barshi "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 246,
+   "Constituency Name": "Barshi "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 246,
+   "Constituency Name": "Barshi "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 247,
+   "Constituency Name": "Mohol "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 247,
+   "Constituency Name": "Mohol "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 247,
+   "Constituency Name": "Mohol "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 247,
+   "Constituency Name": "Mohol "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 247,
+   "Constituency Name": "Mohol "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 248,
+   "Constituency Name": "Solapur City North"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 248,
+   "Constituency Name": "Solapur City North"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 248,
+   "Constituency Name": "Solapur City North"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 248,
+   "Constituency Name": "Solapur City North"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 249,
+   "Constituency Name": "Solapur City central"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 249,
+   "Constituency Name": "Solapur City central"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 249,
+   "Constituency Name": "Solapur City central"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 249,
+   "Constituency Name": "Solapur City central"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 249,
+   "Constituency Name": "Solapur City central"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 250,
+   "Constituency Name": "Akkalkot "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 250,
+   "Constituency Name": "Akkalkot "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 250,
+   "Constituency Name": "Akkalkot "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 250,
+   "Constituency Name": "Akkalkot "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 250,
+   "Constituency Name": "Akkalkot "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 251,
+   "Constituency Name": "Solapur South"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 251,
+   "Constituency Name": "Solapur South"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 251,
+   "Constituency Name": "Solapur South"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 251,
+   "Constituency Name": "Solapur South"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 251,
+   "Constituency Name": "Solapur South"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 252,
+   "Constituency Name": "Pandharpur"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 252,
+   "Constituency Name": "Pandharpur"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 252,
+   "Constituency Name": "Pandharpur"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 252,
+   "Constituency Name": "Pandharpur"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 252,
+   "Constituency Name": "Pandharpur"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 253,
+   "Constituency Name": "Sangola"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 253,
+   "Constituency Name": "Sangola"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 253,
+   "Constituency Name": "Sangola"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 253,
+   "Constituency Name": "Sangola"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 253,
+   "Constituency Name": "Sangola"
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 254,
+   "Constituency Name": "Malshiras "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 254,
+   "Constituency Name": "Malshiras "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 254,
+   "Constituency Name": "Malshiras "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 254,
+   "Constituency Name": "Malshiras "
+ },
+ {
+   "DIST_NAME": "Solapur",
+   "Constituency Number": 254,
+   "Constituency Name": "Malshiras "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 255,
+   "Constituency Name": "Phaltan "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 255,
+   "Constituency Name": "Phaltan "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 255,
+   "Constituency Name": "Phaltan "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 255,
+   "Constituency Name": "Phaltan "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 256,
+   "Constituency Name": "Wai "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 256,
+   "Constituency Name": "Wai "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 256,
+   "Constituency Name": "Wai "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 256,
+   "Constituency Name": "Wai "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 257,
+   "Constituency Name": "Koregaon "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 257,
+   "Constituency Name": "Koregaon "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 257,
+   "Constituency Name": "Koregaon "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 257,
+   "Constituency Name": "Koregaon "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 258,
+   "Constituency Name": "Man "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 258,
+   "Constituency Name": "Man "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 258,
+   "Constituency Name": "Man "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 258,
+   "Constituency Name": "Man "
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 259,
+   "Constituency Name": "Karad North"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 259,
+   "Constituency Name": "Karad North"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 259,
+   "Constituency Name": "Karad North"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 259,
+   "Constituency Name": "Karad North"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 260,
+   "Constituency Name": "Karad South"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 260,
+   "Constituency Name": "Karad South"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 260,
+   "Constituency Name": "Karad South"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 260,
+   "Constituency Name": "Karad South"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 261,
+   "Constituency Name": "Patan"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 261,
+   "Constituency Name": "Patan"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 261,
+   "Constituency Name": "Patan"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 261,
+   "Constituency Name": "Patan"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 262,
+   "Constituency Name": "Satara"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 262,
+   "Constituency Name": "Satara"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 262,
+   "Constituency Name": "Satara"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 262,
+   "Constituency Name": "Satara"
+ },
+ {
+   "DIST_NAME": "Satara",
+   "Constituency Number": 262,
+   "Constituency Name": "Satara"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 263,
+   "Constituency Name": "Dapoli"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 263,
+   "Constituency Name": "Dapoli"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 263,
+   "Constituency Name": "Dapoli"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 263,
+   "Constituency Name": "Dapoli"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 263,
+   "Constituency Name": "Dapoli"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 264,
+   "Constituency Name": "Guhagar "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 264,
+   "Constituency Name": "Guhagar "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 264,
+   "Constituency Name": "Guhagar "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 264,
+   "Constituency Name": "Guhagar "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 264,
+   "Constituency Name": "Guhagar "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 265,
+   "Constituency Name": "Chiplun"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 265,
+   "Constituency Name": "Chiplun"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 265,
+   "Constituency Name": "Chiplun"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 265,
+   "Constituency Name": "Chiplun"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 265,
+   "Constituency Name": "Chiplun"
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 266,
+   "Constituency Name": "Ratnagiri "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 266,
+   "Constituency Name": "Ratnagiri "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 266,
+   "Constituency Name": "Ratnagiri "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 266,
+   "Constituency Name": "Ratnagiri "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 266,
+   "Constituency Name": "Ratnagiri "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 267,
+   "Constituency Name": "Rajapur "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 267,
+   "Constituency Name": "Rajapur "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 267,
+   "Constituency Name": "Rajapur "
+ },
+ {
+   "DIST_NAME": "Ratnagiri",
+   "Constituency Number": 267,
+   "Constituency Name": "Rajapur "
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 268,
+   "Constituency Name": "Kankavli"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 268,
+   "Constituency Name": "Kankavli"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 268,
+   "Constituency Name": "Kankavli"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 268,
+   "Constituency Name": "Kankavli"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 268,
+   "Constituency Name": "Kankavli"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 269,
+   "Constituency Name": "Kudal"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 269,
+   "Constituency Name": "Kudal"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 269,
+   "Constituency Name": "Kudal"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 269,
+   "Constituency Name": "Kudal"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 269,
+   "Constituency Name": "Kudal"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 270,
+   "Constituency Name": "Sawantwadi"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 270,
+   "Constituency Name": "Sawantwadi"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 270,
+   "Constituency Name": "Sawantwadi"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 270,
+   "Constituency Name": "Sawantwadi"
+ },
+ {
+   "DIST_NAME": "Sindhudurg",
+   "Constituency Number": 270,
+   "Constituency Name": "Sawantwadi"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 271,
+   "Constituency Name": "Chandgad "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 271,
+   "Constituency Name": "Chandgad "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 271,
+   "Constituency Name": "Chandgad "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 271,
+   "Constituency Name": "Chandgad "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 271,
+   "Constituency Name": "Chandgad "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 272,
+   "Constituency Name": "Radhanagari"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 272,
+   "Constituency Name": "Radhanagari"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 272,
+   "Constituency Name": "Radhanagari"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 272,
+   "Constituency Name": "Radhanagari"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 273,
+   "Constituency Name": "Kagal"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 273,
+   "Constituency Name": "Kagal"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 273,
+   "Constituency Name": "Kagal"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 273,
+   "Constituency Name": "Kagal"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 273,
+   "Constituency Name": "Kagal"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 274,
+   "Constituency Name": "Kolhapur South"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 274,
+   "Constituency Name": "Kolhapur South"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 274,
+   "Constituency Name": "Kolhapur South"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 274,
+   "Constituency Name": "Kolhapur South"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 275,
+   "Constituency Name": "Karvir"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 275,
+   "Constituency Name": "Karvir"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 275,
+   "Constituency Name": "Karvir"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 275,
+   "Constituency Name": "Karvir"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 276,
+   "Constituency Name": "Kolhapur North"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 276,
+   "Constituency Name": "Kolhapur North"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 276,
+   "Constituency Name": "Kolhapur North"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 276,
+   "Constituency Name": "Kolhapur North"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 276,
+   "Constituency Name": "Kolhapur North"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 277,
+   "Constituency Name": "Shahuwadi "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 277,
+   "Constituency Name": "Shahuwadi "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 277,
+   "Constituency Name": "Shahuwadi "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 277,
+   "Constituency Name": "Shahuwadi "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 277,
+   "Constituency Name": "Shahuwadi "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 277,
+   "Constituency Name": "Shahuwadi "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 278,
+   "Constituency Name": "Hatkanangle "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 278,
+   "Constituency Name": "Hatkanangle "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 278,
+   "Constituency Name": "Hatkanangle "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 278,
+   "Constituency Name": "Hatkanangle "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 278,
+   "Constituency Name": "Hatkanangle "
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 279,
+   "Constituency Name": "Ichalkaranji"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 279,
+   "Constituency Name": "Ichalkaranji"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 279,
+   "Constituency Name": "Ichalkaranji"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 279,
+   "Constituency Name": "Ichalkaranji"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 280,
+   "Constituency Name": "Shirol"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 280,
+   "Constituency Name": "Shirol"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 280,
+   "Constituency Name": "Shirol"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 280,
+   "Constituency Name": "Shirol"
+ },
+ {
+   "DIST_NAME": "Kolhapur",
+   "Constituency Number": 280,
+   "Constituency Name": "Shirol"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 281,
+   "Constituency Name": "Miraj "
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 281,
+   "Constituency Name": "Miraj "
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 281,
+   "Constituency Name": "Miraj "
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 281,
+   "Constituency Name": "Miraj "
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 281,
+   "Constituency Name": "Miraj "
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 282,
+   "Constituency Name": "Sangli"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 282,
+   "Constituency Name": "Sangli"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 282,
+   "Constituency Name": "Sangli"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 282,
+   "Constituency Name": "Sangli"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 282,
+   "Constituency Name": "Sangli"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 283,
+   "Constituency Name": "Islampur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 283,
+   "Constituency Name": "Islampur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 283,
+   "Constituency Name": "Islampur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 283,
+   "Constituency Name": "Islampur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 284,
+   "Constituency Name": "Shirala"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 284,
+   "Constituency Name": "Shirala"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 284,
+   "Constituency Name": "Shirala"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 284,
+   "Constituency Name": "Shirala"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 285,
+   "Constituency Name": "Palus-Kadegaon"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 285,
+   "Constituency Name": "Palus-Kadegaon"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 285,
+   "Constituency Name": "Palus-Kadegaon"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 285,
+   "Constituency Name": "Palus-Kadegaon"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 285,
+   "Constituency Name": "Palus-Kadegaon"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 286,
+   "Constituency Name": "Khanapur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 286,
+   "Constituency Name": "Khanapur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 286,
+   "Constituency Name": "Khanapur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 286,
+   "Constituency Name": "Khanapur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 286,
+   "Constituency Name": "Khanapur"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 287,
+   "Constituency Name": "Tasgaon-Kavathe Mahankal"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 287,
+   "Constituency Name": "Tasgaon-Kavathe Mahankal"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 287,
+   "Constituency Name": "Tasgaon-Kavathe Mahankal"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 287,
+   "Constituency Name": "Tasgaon-Kavathe Mahankal"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 288,
+   "Constituency Name": "Jath"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 288,
+   "Constituency Name": "Jath"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 288,
+   "Constituency Name": "Jath"
+ },
+ {
+   "DIST_NAME": "Sangli",
+   "Constituency Number": 288,
+   "Constituency Name": "Jath"
+ }
+];
